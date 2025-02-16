@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+python-dotenv
+langchain-community
+langchain-chroma
+transformers
+notebook
