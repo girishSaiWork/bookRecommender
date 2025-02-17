@@ -6,3 +6,6 @@ langchain-community
 langchain-chroma
 transformers
 notebook
+psycopg2-binary
+pgvector
+langchain_ollama
