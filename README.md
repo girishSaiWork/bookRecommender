@@ -64,7 +64,7 @@ src/
 
 ```bash
 git clone [repository-url]
-cd semantic-book-recommender
+cd bookRecommender
 ```
 
 2. Install dependencies:
@@ -132,10 +132,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-
-For any questions or feedback, please reach out to [Your Contact Information]
-
----
-
-**Note**: This project was developed as part of a tutorial series on building semantic search applications with modern NLP techniques by FreecodeCamp.
+**Note**: This project was developed as part of a tutorial series on building semantic search applications with modern NLP techniques by [FreecodeCamp](https://www.youtube.com/watch?v=Q7mS1VHm3Yw).
