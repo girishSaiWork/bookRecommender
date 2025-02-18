@@ -6,8 +6,8 @@ langchain-community
 langchain-chroma
 transformers
 notebook
-psycopg2-binary
-pgvector
+psycopg2-binary  # Keep this, ONLY this for psycopg
 langchain_ollama
 torch
 gradio
+langchain-postgres  # Make sure this is present
